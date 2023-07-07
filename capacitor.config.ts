@@ -2,7 +2,7 @@ import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
   appId: 'io.ionic.starter',
-  appName: 'todoVue',
+  appName: 'mailVue',
   webDir: 'dist',
   server: {
     androidScheme: 'https'
