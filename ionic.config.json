@@ -1,0 +1,7 @@
+{
+  "name": "todoVue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
